@@ -1,0 +1,17 @@
+/src
+  ├── App.jsx
+  ├── components
+  │     ├── Header.jsx
+  │     ├── Hero.jsx
+  │     ├── InfoSection.jsx
+  │     ├── Testimonial.jsx
+  │     ├── CTA.jsx
+  │     ├── Footer.jsx
+  ├── index.js
+  ├── index.css
+
+
+ This describes the project folder Structure which shows the connection between the various folders in the project 
+and how the files are connected to each other in the Project.
+As a Software Engineer this is very essential as not only you will be reading your codes and you will be working with other Software Engineers, 
+Programmers, Developers also.
